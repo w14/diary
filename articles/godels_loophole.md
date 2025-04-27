@@ -8,8 +8,8 @@ The practical impediment is the supreme court. But:
 
 To appoint new Supreme Court justices, the Constitution (Article II, Section 2) requires only:
 
-    1. Presidential nomination
-    2. Simple majority approval in the Senate
+1. Presidential nomination
+2. Simple majority approval in the Senate
 
 No other congressional approval is required. There’s no constitutional limit on the number of justices—the current total (9) is set by law and can be changed by a simple majority in Congress (both House and Senate).
 
