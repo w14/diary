@@ -22,3 +22,5 @@ All of these added charges can be thought of as "The Cost to Deliver": getting t
 A lot of commodities can be found from "platts" (Now "S&P commodities") that have cash-settled futures. The cash-settled futures will have accurate, free, public settlement prices even if the future doesn't trade.
 
 Also try IBISWorld, IndustryARC, and maybe Forrester
+
+Furniture - A 3ft x 4ft x 9in 4-shelf unfinished wood bookcase takes $15 of pinewood. Gabriel Reed said it took him 1h to make and he isn't expert. At $25-40/hr that's $30-50 total. You can buy shelves that probably take the same labor to make for <$50. But if you want them with pinewood, it costs $200-300.
